@@ -7,11 +7,11 @@
   <img src="https://komarev.com/ghpvc/?username=therenguen&style=flat-square&color=red" alt=""/>
 
   <a 
-    href="mailto:amerfoe+c@gmail.com"
+    href="mailto:the@renguen.ru"
     target="_blank">
     <img
-      src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
+      src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=mail&logoColor=white"
+      alt="Mail"
     />
   </a>
 </div>
